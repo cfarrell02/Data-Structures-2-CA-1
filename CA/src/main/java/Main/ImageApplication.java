@@ -19,8 +19,8 @@ public class ImageApplication extends Application {
         stage.setTitle("Paint 2");
         stage.setScene(scene);
         stage.show();
-        Image icon = new Image(new FileInputStream("src/main/resources/images/paint2.png"));
-        stage.getIcons().add(icon);
+       // Image icon = new Image(new FileInputStream("src/main/resources/images/paint2.png"));
+      //  stage.getIcons().add(icon);
         window = stage;
     }
 
