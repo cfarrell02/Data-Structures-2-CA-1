@@ -9,8 +9,5 @@
         <module name="CA" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CA" target="15" />
-    </bytecodeTargetLevel>
   </component>
 </project>
